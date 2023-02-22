@@ -1,8 +1,7 @@
 #include "main.h"
 /**
-* main - print 
-7_putchar
-* is written by mbah
+* main - print _putchar
+* is written by umoren
 *Return: 0
 */
 int main(void)
