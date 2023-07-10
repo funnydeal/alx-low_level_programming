@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 char *create_buffer(char *file);
@@ -83,4 +84,5 @@ free(buffer);
 close_file(from);
 close_file(to);
 return (0);
-}
+}e
+
